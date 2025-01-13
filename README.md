@@ -18,6 +18,7 @@ I am a data engineer/analyst and web developer passionate about technology and i
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-239120?style=flat&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-326392?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
