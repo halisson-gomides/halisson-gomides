@@ -1,6 +1,6 @@
 ## Data Engineer and Web Develover
 
-### Sobre mim
+### About me
 
 I am a data engineer/analyst and web developer passionate about technology and innovation. With experience in several programming languages ​​and databases, I always seek to deliver high-quality and efficient solutions.
 
