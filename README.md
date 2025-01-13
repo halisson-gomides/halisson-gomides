@@ -1,16 +1,16 @@
-## Engenheiro de Dados e Desenvolvedor Web
+## Data Engineer and Web Develover
 
 ### Sobre mim
 
-Sou um engenheiro de dados e desenvolvedor web apaixonado por tecnologia e inovação. Com experiência em diversas linguagens de programação e bancos de dados, busco sempre entregar soluções de alta qualidade e eficiência.
+I am a data engineer/analyst and web developer passionate about technology and innovation. With experience in several programming languages ​​and databases, I always seek to deliver high-quality and efficient solutions.
 
-#### Formação
-- Bacharel em Engenharia Elétrica com ênfase em Telecomunicações.
-- Pós-graduado em Gestão de Tecnologia da Informação.
-- Pós-graduado em Inteligência Artificial aplicada.
-- Pós-granduando em Ciência de Dados.
+#### Academic Background
+- Bachelor's degree in Electrical Engineering with an emphasis on Telecommunications.
+- Postgraduate degree in Information Technology Management.
+- Postgraduate degree in Applied Artificial Intelligence.
+- Postgraduate degree in Data Science.
 
-### Habilidades
+### Skills
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,11 +29,11 @@ Sou um engenheiro de dados e desenvolvedor web apaixonado por tecnologia e inova
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halisson-gomides&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github&count_private=true)
 
-### Contato
+### Contacts
 
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/halisson-gomides) 
 - [![Email](https://img.shields.io/badge/Email-[halisson.gomides@gmail.com]-D3D3D3?style=flat&logo=gmail&logoColor=black)](mailto:halisson.gomides@gmail.com)
 
 ---
 
-Feito com ❤️ por Halisson Gomides
+With ❤️ by Halisson Gomides
